@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528712503 source:c:\projects\poli\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
